@@ -1,0 +1,47 @@
+.header_div h3{
+    display: inline-block;
+    font-family: 'Architects Daughter', cursive;
+    font-size: 30px;
+}
+
+.header_div{
+    width: 100%;
+}
+
+.header_div button{
+    float: right;
+}
+
+#big_image{
+    width: 100%;
+}
+
+#start_button,#status{
+    font-size: 20px;
+}
+
+.modal-dialog{
+    width: 90%;
+}
+
+h4{
+    background-color: aliceblue;
+    line-height: 2;
+    margin: 0px;
+}
+
+.instruction_image{
+    display: inline-block;
+    width: 40%;
+}
+
+.modal-header{
+    margin: 10px;
+}
+
+video{
+    background-image: url('game_console.png');
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
